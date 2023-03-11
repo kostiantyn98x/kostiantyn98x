@@ -5,8 +5,6 @@ I am Senior Blockchain and Web Developer with Strongest high skills. I'm a passi
 
  ✔️ React.js, Vue.js, Antular.js, Next.js, Typescript.js and so on (Frontend) 
  
- ✔️ PHP/Laravel, Node.js/Express.js, Django, Flask (Backend) 
- 
  ✔️ Ethereum, Solana, Binance Smart Chain(BSC), Polygon 
  
  ✔️ Solidity, Rust, Web3, Near, Sui
@@ -18,6 +16,8 @@ I am Senior Blockchain and Web Developer with Strongest high skills. I'm a passi
  ✔️ NFT ( Pre-sale | Mint | Marketplace | Stake ) 
  
  ✔️ DeFi/DEX/CEX ( Forking Olympus Dao | Pancakeswap )
+ 
+ ✔️ PHP/Laravel, Node.js/Express.js, Django, Flask (Backend) 
  
 From requirement analysis, architect design, db modeling to frontend/backend coding and maintenance, I provide 100% reliable service.
 I work full time day and night. more than 40 hours per week. Looking forward to working with you in a long term.
