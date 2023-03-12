@@ -20,6 +20,6 @@ I am Senior Blockchain and Web Developer with Strongest high skills. I'm a passi
  ✅ PHP/Laravel, Node.js/Express.js, Django, Flask (Backend) 
  
 From requirement analysis, architect design, db modeling to frontend/backend coding and maintenance, I provide 100% reliable service.
-I work full time day and night. more than 40 hours per week. Looking forward to working with you in a long term.
+I work full time day and night. more than 40 hours per week. Looking forward to working with you in a long term. :rocket:
 
 Bests Regard!
